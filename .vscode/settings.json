@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "documenthashmap.h": "c",
+        "globals.h": "c"
+    }
+}
